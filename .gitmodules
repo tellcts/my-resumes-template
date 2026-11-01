@@ -1,0 +1,3 @@
+[submodule "vendor/resumes-CV"]
+	path = vendor/resumes-CV
+	url = https://github.com/tellcts/resumes-CV.git
